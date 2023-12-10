@@ -23,7 +23,7 @@ The project will be cloned
 
 to install necessary dependecies
 
-(/assets/images/Screenshot (16).png)
+![Commit Screenshot](/assets/images/Screenshot (16).png)
 
 
 > [!IMPORTANT]
