@@ -4,7 +4,7 @@ const AddNote = ({ addNote }) => {
   const [newNote, setNewNote] = useState('');
   const handleAddNote = () => {
     addNote(newNote);
-    setNewNote('');
+    setNewNote('Please Add Note');
   }
 
   return (
